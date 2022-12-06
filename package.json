@@ -1,0 +1,12 @@
+{
+  "name": "rts-labs-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Cameron Halter",
+  "license": "UNLICENSED",
+  "type": "module"
+}
